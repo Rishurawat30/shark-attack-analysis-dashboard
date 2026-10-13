@@ -34,8 +34,8 @@ This project analyzes recorded shark attack incidents using Microsoft Excel. An 
 - Interactive slicers for exploring the data
 
 ##  Files Included
-- `Shark_Attack_Dashboard.xlsx` — Completed Excel dashboard
-- `dashboard_preview.png` — Screenshot preview of the dashboard
+- `excel projects DA(AutoRecovered).xlsx` — Completed Excel dashboard
+- `Excel Dashboard.png` — Screenshot preview of the dashboard
 
 ##  Key Learnings
 - Creating PivotTables and PivotCharts to summarize data
